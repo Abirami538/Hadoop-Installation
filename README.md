@@ -20,3 +20,15 @@ Download Hadoop 3.1.3 from:
 https://hadoop.apache.org/releases.html
 
 Extract it to:
+C:\hadoop-3.1.3
+Rename the folder to:
+C:\hadoop
+3. Configure System Environment Variables
+Add User Variable
+
+Variable name: HADOOP_HOME
+Variable value: C:\hadoop
+
+Add to System PATH
+
+Edit Path → Add:
